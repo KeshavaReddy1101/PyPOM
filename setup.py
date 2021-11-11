@@ -4,10 +4,10 @@ splinter_requires = ["splinter"]
 
 setup(
     name="PyPOM",
-    version="2.2.1",
+    version="2.2.2",
     description="python page object model for selenium",
     long_description=open("README.rst").read(),
-    author="Dave Hunt",
+    author="Keshava Reddy Kankanala",
     author_email="keshav.kankanala@gmail.com",
     url="https://github.com/KeshavaReddy1101/PyPOM",
     package_dir={"": "src"},
