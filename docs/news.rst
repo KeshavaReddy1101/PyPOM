@@ -3,7 +3,7 @@ Release Notes
 
 .. towncrier release notes start
 
-2.2.1 (2021-11-09)
+2.2.3 (2021-11-09)
 ==================
 
 Deprecations and Removals
