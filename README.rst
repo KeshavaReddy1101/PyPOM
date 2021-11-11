@@ -4,7 +4,7 @@ PyPOM
 PyPOM is a Python Page Object Model library for Selenium and Splinter tests.
 
 .. image:: https://img.shields.io/badge/license-MPL%202.0-blue.svg
-   :target: https://github.com/mozilla/PyPOM/blob/master/LICENSE.txt
+   :target: https://github.com/KeshavaReddy1101/PyPOM/blob/master/LICENSE.txt
    :alt: License
 .. image:: https://img.shields.io/pypi/v/PyPOM.svg
    :target: https://pypi.python.org/pypi/PyPOM/
@@ -19,17 +19,14 @@ PyPOM is a Python Page Object Model library for Selenium and Splinter tests.
    :target: http://pypom.readthedocs.io/en/latest/
    :alt: Read the Docs
 .. image:: https://img.shields.io/github/issues-raw/mozilla/PyPOM.svg
-   :target: https://github.com/mozilla/PyPOM/issues
+   :target: https://github.com/KeshavaReddy1101/PyPOM/issues
    :alt: Issues
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
    :target: https://github.com/ambv/black
-.. image:: https://api.dependabot.com/badges/status?host=github&repo=mozilla/PyPOM
-   :target: https://dependabot.com
-   :alt: Dependabot
 
 Resources
 ---------
 
 - `Documentation <http://pypom.readthedocs.io/>`_
-- `Issue Tracker <http://github.com/mozilla/PyPOM/issues>`_
-- `Code <http://github.com/mozilla/PyPOM/>`_
+- `Issue Tracker <https://github.com/KeshavaReddy1101/PyPOM/issues>`_
+- `Code <https://github.com/KeshavaReddy1101/PyPOM>`_

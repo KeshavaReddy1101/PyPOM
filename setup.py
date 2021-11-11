@@ -4,12 +4,12 @@ splinter_requires = ["splinter"]
 
 setup(
     name="PyPOM",
-    use_scm_version=True,
+    version="2.2.1",
     description="python page object model for selenium",
     long_description=open("README.rst").read(),
     author="Dave Hunt",
-    author_email="dhunt@mozilla.com",
-    url="https://github.com/mozilla/PyPOM",
+    author_email="keshav.kankanala@gmail.com",
+    url="https://github.com/KeshavaReddy1101/PyPOM",
     package_dir={"": "src"},
     packages=["pypom", "pypom.interfaces"],
     install_requires=["zope.interface", "zope.component", "pluggy", "selenium"],

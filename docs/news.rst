@@ -3,6 +3,13 @@ Release Notes
 
 .. towncrier release notes start
 
+2.2.1 (2021-11-09)
+==================
+
+Deprecations and Removals
+-------------------------
+- Removed Android, BlackBerry, PhantomJS imports from selenium_driver.py as latest Selenium is not supporting this drivers
+
 2.2.0 (2018-10-29)
 ==================
 
