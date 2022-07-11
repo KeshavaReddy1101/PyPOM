@@ -9,7 +9,7 @@ from selenium.webdriver import (
     Edge,
     Firefox,
     Ie,
-    Opera,
+#     Opera,
     Remote,
     Safari,
 )
