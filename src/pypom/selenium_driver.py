@@ -129,7 +129,7 @@ def register():
             Chrome,
             Ie,
             Edge,
-            Opera,
+#             Opera,
             Safari,
             Remote,
             EventFiringWebDriver,
