@@ -9,7 +9,7 @@ from selenium.webdriver import (
     Edge,
     Firefox,
     Ie,
-    Opera,
+#     Opera,
     Remote,
     Safari,
 )
@@ -129,7 +129,7 @@ def register():
             Chrome,
             Ie,
             Edge,
-            Opera,
+#             Opera,
             Safari,
             Remote,
             EventFiringWebDriver,
