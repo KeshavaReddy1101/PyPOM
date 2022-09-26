@@ -9,7 +9,6 @@ from selenium.webdriver import (
     Edge,
     Firefox,
     Ie,
-    Opera,
     Remote,
     Safari,
 )
@@ -129,7 +128,6 @@ def register():
             Chrome,
             Ie,
             Edge,
-            Opera,
             Safari,
             Remote,
             EventFiringWebDriver,
